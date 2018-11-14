@@ -1,4 +1,4 @@
 # python_lineX
 ``` 
-~ Auto kick privat .! self
+[Auto kick privat .! self]
 ```
